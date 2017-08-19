@@ -167,3 +167,5 @@ $ git pull origin develop
 ```
 
 を実行しましょう。
+
+確認
